@@ -12,7 +12,7 @@ do
   echo "$entry"
 done
 
-sh bin/oxygen/scripts/validateCheckDITA.sh -i dita_sources/gear-pump.ditamap -s scripts/validate-check-completeness/validate-check-completeness-options.xml -r bin/tmp-vcc/vcc-result.xml
+sh bin/oxygen/scripts/validateCheckDITA.sh -i $var/dita_sources/gear-pump.ditamap -s $var/scripts/validate-check-completeness/validate-check-completeness-options.xml -r bin/tmp-vcc/vcc-result.xml
 
 echo "--RESULT--"
 cat bin/tmp-vcc/vcc-result.xml
