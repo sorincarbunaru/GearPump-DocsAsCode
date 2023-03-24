@@ -45,8 +45,8 @@
                 "filePath": "<xsl:value-of select="replace(r:systemID/text(), '\\', '/')"/>",
                 "textRange": {
                     "startLine": <xsl:value-of select="r:location/r:start/r:line/text()"/>,
-                    "endLine": <xsl:value-of select="r:location/r:end/r:line/text()"/>,
                     "startColumn": <xsl:value-of select="xs:integer(r:location/r:start/r:column/text()) - 1"/>,
+                    "endLine": <xsl:value-of select="r:location/r:end/r:line/text()"/>,
                     "endColumn": <xsl:value-of select="xs:integer(r:location/r:end/r:column/text()) - 1"/>
                 }
             }
