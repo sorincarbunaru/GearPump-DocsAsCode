@@ -7,9 +7,12 @@ echo "Validate and check for completeness"
 var=$(pwd)
 echo "The current working directory $var."
 
-cd scripts/../
-pf=`pwd`
-sh bin/oxygen/scripts/validateCheckDITA.sh -i $pf/dita_sources/gear-pump.ditamap -s $pf/scripts/validate-check-completeness/validate-check-completeness-options.xml -r bin/tmp-vcc/vcc-result.xml
+for entry in "$var"/*
+do
+  echo "$entry"
+done
+
+sh bin/oxygen/scripts/validateCheckDITA.sh -i dita_sources/gear-pump.ditamap -s scripts/validate-check-completeness/validate-check-completeness-options.xml -r bin/tmp-vcc/vcc-result.xml
 
 echo "--RESULT--"
 cat bin/tmp-vcc/vcc-result.xml
