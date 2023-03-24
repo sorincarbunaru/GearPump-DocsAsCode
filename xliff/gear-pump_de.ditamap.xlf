@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"
+  xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <?encoding UTF-8?>
+  <file product-name="Gear Pump" source-language="en" original="gear-pump.ditamap"
+    datatype="x-ditamap" target-language="de" tool-id="OpenXLIFF" build-num="0"
+    product-version="1679467497156">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIG1hcCBQVUJM
+SUMgIi0vL09BU0lTLy9EVEQgRElUQSBNYXAvL0VOIiAibWFwLmR0ZCI+CjxtYXAgZG9tYWlucz0i
+KG1hcCBtYXBncm91cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgYWJicmV2
+LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBkZWxheS1kKSAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAobWFwIGRpdGF2YWxyZWYtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+KG1hcCBnbG9zc3JlZi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJk
+LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcHIt
+ZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgKHRvcGljIHN3LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICh0b3BpYyB1aS1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgdXQtZCkgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIG1hcmt1cC1kIHhtbC1kKSAgICIgZGl0YWFy
+Y2g6RElUQUFyY2hWZXJzaW9uPSIxLjMiIGNsYXNzPSItIG1hcC9tYXAgIiB4bWxuczpkaXRhYXJj
+aD0iaHR0cDovL2RpdGEub2FzaXMtb3Blbi5vcmcvYXJjaGl0ZWN0dXJlLzIwMDUvIj4gPHRpdGxl
+IGNsYXNzPSItIHRvcGljL3RpdGxlICI+JSUlMSUlJQo8L3RpdGxlPiA8dG9waWNyZWYgaHJlZj0i
+dG9waWNzL2ludHJvZHVjdGlvbi5kaXRhIiBjbGFzcz0iLSBtYXAvdG9waWNyZWYgIi8+IDx0b3Bp
+Y3JlZiBocmVmPSJ0b3BpY3MvZ2Vhci1wdW1wLmRpdGEiIGNsYXNzPSItIG1hcC90b3BpY3JlZiAi
+PiA8dG9waWNyZWYgaHJlZj0idG9waWNzL3BhcnRzL2J1c2hpbmdzLmRpdGEiIGNsYXNzPSItIG1h
+cC90b3BpY3JlZiAiLz4gPHRvcGljcmVmIGhyZWY9InRvcGljcy9wYXJ0cy9kcml2ZS1zaGFmdC5k
+aXRhIiBjbGFzcz0iLSBtYXAvdG9waWNyZWYgIi8+IDx0b3BpY3JlZiBocmVmPSJ0b3BpY3MvcGFy
+dHMvZ2VhcnMuZGl0YSIgY2xhc3M9Ii0gbWFwL3RvcGljcmVmICIvPiA8dG9waWNyZWYgaHJlZj0i
+dG9waWNzL3BhcnRzL21vdW50aW5nLWZsYW5nZS5kaXRhIiBjbGFzcz0iLSBtYXAvdG9waWNyZWYg
+Ii8+IDx0b3BpY3JlZiBocmVmPSJ0b3BpY3MvcGFydHMvcG9ydHMuZGl0YSIgY2xhc3M9Ii0gbWFw
+L3RvcGljcmVmICIvPiA8dG9waWNyZWYgaHJlZj0idG9waWNzL3BhcnRzL3NlYWxzLmRpdGEiIGNs
+YXNzPSItIG1hcC90b3BpY3JlZiAiLz4gPC90b3BpY3JlZj4gPHRvcGljcmVmIGhyZWY9InRvcGlj
+cy9jb3B5cmlnaHQuZGl0YSIgY2xhc3M9Ii0gbWFwL3RvcGljcmVmICIvPiA8L21hcD4=</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+    <trans-unit approved="yes" xml:space="preserve" id="1">
+      <source>Gear Pump</source>
+      <target>Zahnradpumpe</target>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="Gear Pump" source-language="en" original="topics/copyright.dita"
+    datatype="x-ditamap" target-language="de" tool-id="OpenXLIFF" build-num="0"
+    product-version="1679467497156">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJjb3B5cmlnaHQiPiA8dGl0bGUgY2xhc3M9Ii0gdG9waWMvdGl0
+bGUgIj4lJSUxJSUlCjwvdGl0bGU+IDxzaG9ydGRlc2MgY2xhc3M9Ii0gdG9waWMvc2hvcnRkZXNj
+ICI+JSUlMiUlJQo8L3Nob3J0ZGVzYz4gPGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAiPiA8cCBj
+bGFzcz0iLSB0b3BpYy9wICI+JSUlMyUlJQo8L3A+IDwvYm9keT4gPC90b3BpYz4=</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+   <trans-unit approved="yes" xml:space="preserve" id="1">
+      <source>Copyright</source>
+      <target>Urheberrecht</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="2">
+      <source>Legal stuff.</source>
+      <target>Rechtliches.</target>
+   </trans-unit>
+      <trans-unit approved="yes" xml:space="preserve" id="3">
+      <source>Most of the information in this guide was taken from <ph ctype="x-link" id="0">&lt;xref href="http://www.wikipedia.com" scope="external" class="- topic/xref " format="html"&gt;</ph>Wikipedia<ph id="1">&lt;/xref&gt;</ph>, the free encyclopedia.</source>
+      <target>Die meisten Informationen in diesem Leitfaden stammen aus <ph ctype="x-link" id="0">&lt;xref href="http://www.wikipedia.com" scope="external" class="- topic/xref " format="html"&gt;</ph>Wikipedia<ph id="1">&lt;/xref&gt;</ph>, der freien Enzyklopädie.</target>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="Gear Pump" source-language="en" original="topics/gear-pump.dita"
+    datatype="x-ditamap" target-language="de" tool-id="OpenXLIFF" build-num="0"
+    product-version="1679467497156">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJnZWFyX3B1bXAiPiA8dGl0bGUgY2xhc3M9Ii0gdG9waWMvdGl0
+bGUgIj4lJSUxJSUlCjwvdGl0bGU+IDxzaG9ydGRlc2MgY2xhc3M9Ii0gdG9waWMvc2hvcnRkZXNj
+ICI+JSUlMiUlJQo8L3Nob3J0ZGVzYz4gPGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAiPiA8cCBj
+bGFzcz0iLSB0b3BpYy9wICI+JSUlMyUlJQolJSU0JSUlCiUlJTUlJSUKPC9wPiA8ZXhhbXBsZSBj
+bGFzcz0iLSB0b3BpYy9leGFtcGxlICI+CiAgICAgICAgICAgIDx0aXRsZSBjbGFzcz0iLSB0b3Bp
+Yy90aXRsZSAiPiUlJTYlJSUKPC90aXRsZT4KICAgICAgICAgICAgPHAgY2xhc3M9Ii0gdG9waWMv
+cCAiPiUlJTclJSUKPC9wPgogICAgICAgICAgICA8cCBjbGFzcz0iLSB0b3BpYy9wICI+IDxpbWFn
+ZW1hcCBjbGFzcz0iKyB0b3BpYy9maWcgdXQtZC9pbWFnZW1hcCAiIGlkPSJnZWFyX3B1bXBfbWFw
+Ij4gPGltYWdlIGhyZWY9Ii4uL2ltYWdlcy9HZWFyX3B1bXBfZXhwbG9kZWQucG5nIiBwbGFjZW1l
+bnQ9ImlubGluZSIgY2xhc3M9Ii0gdG9waWMvaW1hZ2UgIiBpZD0iZ2Vhcl9wdW1wX2V4cGxvZGVk
+Ij4gPGFsdCBjbGFzcz0iLSB0b3BpYy9hbHQgIj4lJSU4JSUlCjwvYWx0PiA8L2ltYWdlPiA8YXJl
+YSBjbGFzcz0iKyB0b3BpYy9maWdncm91cCB1dC1kL2FyZWEgIj4lJSU5JSUlCjwvYXJlYT4gPGFy
+ZWEgY2xhc3M9IisgdG9waWMvZmlnZ3JvdXAgdXQtZC9hcmVhICI+JSUlMTAlJSUKPC9hcmVhPiA8
+YXJlYSBjbGFzcz0iKyB0b3BpYy9maWdncm91cCB1dC1kL2FyZWEgIj4lJSUxMSUlJQo8L2FyZWE+
+IDxhcmVhIGNsYXNzPSIrIHRvcGljL2ZpZ2dyb3VwIHV0LWQvYXJlYSAiPiUlJTEyJSUlCjwvYXJl
+YT4gPGFyZWEgY2xhc3M9IisgdG9waWMvZmlnZ3JvdXAgdXQtZC9hcmVhICI+JSUlMTMlJSUKPC9h
+cmVhPiA8YXJlYSBjbGFzcz0iKyB0b3BpYy9maWdncm91cCB1dC1kL2FyZWEgIj4lJSUxNCUlJQo8
+L2FyZWE+IDxhcmVhIGNsYXNzPSIrIHRvcGljL2ZpZ2dyb3VwIHV0LWQvYXJlYSAiPiUlJTE1JSUl
+CjwvYXJlYT4gPGFyZWEgY2xhc3M9IisgdG9waWMvZmlnZ3JvdXAgdXQtZC9hcmVhICI+JSUlMTYl
+JSUKPC9hcmVhPiA8YXJlYSBjbGFzcz0iKyB0b3BpYy9maWdncm91cCB1dC1kL2FyZWEgIj4lJSUx
+NyUlJQo8L2FyZWE+IDxhcmVhIGNsYXNzPSIrIHRvcGljL2ZpZ2dyb3VwIHV0LWQvYXJlYSAiPiUl
+JTE4JSUlCjwvYXJlYT4gPGFyZWEgY2xhc3M9IisgdG9waWMvZmlnZ3JvdXAgdXQtZC9hcmVhICI+
+JSUlMTklJSUKPC9hcmVhPiA8YXJlYSBjbGFzcz0iKyB0b3BpYy9maWdncm91cCB1dC1kL2FyZWEg
+Ij4lJSUyMCUlJQo8L2FyZWE+IDwvaW1hZ2VtYXA+IDwvcD4KICAgICAgICA8L2V4YW1wbGU+IDwv
+Ym9keT4gPC90b3BpYz4=</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+   <trans-unit approved="yes" xml:space="preserve" id="1">
+      <source>Gear Pump - Exploded View</source>
+      <target>Zahnradpumpe - Explosionsdarstellung</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="2">
+      <source>Detailed description.</source>
+      <target>Detaillierte Beschreibung.</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="3">
+      <source>A <ph ctype="x-bold" id="0">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>gear pump<ph id="1">&lt;/b&gt;</ph> uses the meshing of gears to pump fluid by displacement.</source>
+      <target>Eine <ph ctype="x-bold" id="0">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>Zahnradpumpe<ph id="1">&lt;/b&gt;</ph> verwendet den Zahneingriff, um Flüssigkeit durch Verdrängung zu pumpen.</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="4">
+      <source> They are one of the most common types of <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>pumps<ph id="1">&lt;/term&gt;</ph> for hydraulic fluid power applications.</source>
+      <target> Sie gehören zu den gebräuchlichsten <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Pumpentypen<ph id="1">&lt;/term&gt;</ph> für hydraulische Anwendungen.</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="5">
+      <source> <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Gear pumps<ph id="1">&lt;/term&gt;</ph> are also widely used in chemical installations to pump high viscosity fluids.</source>
+      <target> <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Zahnradpumpen<ph id="1">&lt;/term&gt;</ph> werden auch in chemischen Anlagen häufig eingesetzt, um hochviskose Flüssigkeiten zu fördern.</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="6">
+      <source>An exploded view diagram of a gear pump </source>
+      <target>Explosionszeichnung einer Zahnradpumpe </target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="7">
+      <source>Click on <ph ctype="x-other" id="0">&lt;uicontrol class="+ topic/ph ui-d/uicontrol "&gt;</ph>Edit image map<ph id="1">&lt;/uicontrol&gt;</ph> to edit the map, or use <ph ctype="x-other" id="2">&lt;uicontrol class="+ topic/ph ui-d/uicontrol "&gt;</ph>Image map details<ph id="3">&lt;/uicontrol&gt;</ph> to see the defined areas directly in the document.</source>
+      <target>Klicken Sie auf Bildkarte <ph ctype="x-other" id="0">&lt;uicontrol class="+ topic/ph ui-d/uicontrol "&gt;</ph>bearbeiten<ph id="1">&lt;/uicontrol&gt;</ph>, um die Karte zu bearbeiten, oder <ph ctype="x-other" id="2">&lt;uicontrol class="+ topic/ph ui-d/uicontrol "&gt;</ph>verwenden Sie Bildkartendetails<ph id="3">&lt;/uicontrol&gt;</ph>, um die definierten Bereiche direkt im Dokument zu sehen.</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="8">
+      <source>Gear Pump</source>
+      <target>Zahnradpumpe</target>
+   </trans-unit>
+   <trans-unit approved="no" xml:space="preserve" id="9">
+      <source> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">172, 265, 14</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/bushings.dita#bushings_topic/bushings" class="- topic/xref " format="dita"&gt;</ph>Bushings<ph id="1">&lt;/xref&gt;</ph> </source>
+      <target> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">172, 265, 14</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/bushings.dita#bushings_topic/bushings" class="- topic/xref " format="dita"&gt;</ph>Buchsen<ph id="1">&lt;/xref&gt;</ph> </target>
+   </trans-unit>
+   <trans-unit approved="no" xml:space="preserve" id="10">
+      <source> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">171, 331, 13</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/bushings.dita#bushings_topic/bushings" class="- topic/xref " format="dita"&gt;</ph>Bushings<ph id="1">&lt;/xref&gt;</ph> </source>
+      <target> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">171, 331, 13</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/bushings.dita#bushings_topic/bushings" class="- topic/xref " format="dita"&gt;</ph>Buchsen<ph id="1">&lt;/xref&gt;</ph> </target>
+   </trans-unit>
+   <trans-unit approved="no" xml:space="preserve" id="11">
+      <source> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">327, 198, 14</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/bushings.dita#bushings_topic/bushings" class="- topic/xref " format="dita"&gt;</ph>Bushings<ph id="1">&lt;/xref&gt;</ph> </source>
+      <target> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">327, 198, 14</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/bushings.dita#bushings_topic/bushings" class="- topic/xref " format="dita"&gt;</ph>Buchsen<ph id="1">&lt;/xref&gt;</ph> </target>
+   </trans-unit>
+   <trans-unit approved="no" xml:space="preserve" id="12">
+      <source> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">326, 263, 14</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/bushings.dita#bushings_topic/bushings" class="- topic/xref " format="dita"&gt;</ph>Bushings<ph id="1">&lt;/xref&gt;</ph> </source>
+      <target> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">326, 263, 14</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/bushings.dita#bushings_topic/bushings" class="- topic/xref " format="dita"&gt;</ph>Buchsen<ph id="1">&lt;/xref&gt;</ph> </target>
+   </trans-unit>
+   <trans-unit approved="no" xml:space="preserve" id="13">
+      <source> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">232, 242, 47</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/gears.dita#gears_topic/drive_gear" class="- topic/xref " format="dita"&gt;</ph>Drive Gear<ph id="1">&lt;/xref&gt;</ph> </source>
+      <target> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">232, 242, 47</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/gears.dita#gears_topic/drive_gear" class="- topic/xref " format="dita"&gt;</ph>Antriebsrad<ph id="1">&lt;/xref&gt;</ph> </target>
+   </trans-unit>
+   <trans-unit approved="no" xml:space="preserve" id="14">
+      <source> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">238, 306, 49</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/gears.dita#gears_topic/idler_gear" class="- topic/xref " format="dita"&gt;</ph>Idler Gear<ph id="1">&lt;/xref&gt;</ph> </source>
+      <target> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">238, 306, 49</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/gears.dita#gears_topic/idler_gear" class="- topic/xref " format="dita"&gt;</ph>Losradgetriebe<ph id="1">&lt;/xref&gt;</ph> </target>
+   </trans-unit>
+   <trans-unit approved="no" xml:space="preserve" id="15">
+      <source> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">324, 210, 14</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/ports.dita#ports_topic/sucction_port" class="- topic/xref " format="dita"&gt;</ph>Suction Port<ph id="1">&lt;/xref&gt;</ph> </source>
+      <target> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">324, 210, 14</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/ports.dita#ports_topic/sucction_port" class="- topic/xref " format="dita"&gt;</ph>Ansaugöffnung<ph id="1">&lt;/xref&gt;</ph> </target>
+   </trans-unit>
+   <trans-unit approved="no" xml:space="preserve" id="16">
+      <source> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">391, 250, 16</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/ports.dita#ports_topic/presure_port" class="- topic/xref " format="dita"&gt;</ph>Pressure Port<ph id="1">&lt;/xref&gt;</ph> </source>
+      <target> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">391, 250, 16</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/ports.dita#ports_topic/presure_port" class="- topic/xref " format="dita"&gt;</ph>Druckanschluss<ph id="1">&lt;/xref&gt;</ph> </target>
+   </trans-unit>
+   <trans-unit approved="no" xml:space="preserve" id="17">
+      <source> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">poly</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">422, 145, 459, 179, 462, 221, 423, 221</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/mounting-flange.dita#mounting_flange_topic/mounting_flange" class="- topic/xref " format="dita"&gt;</ph>Mounting Flange<ph id="1">&lt;/xref&gt;</ph> </source>
+      <target> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">poly</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">422, 145, 459, 179, 462, 221, 423, 221</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/mounting-flange.dita#mounting_flange_topic/mounting_flange" class="- topic/xref " format="dita"&gt;</ph>Montageflansch<ph id="1">&lt;/xref&gt;</ph> </target>
+   </trans-unit>
+   <trans-unit approved="no" xml:space="preserve" id="18">
+      <source> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">448, 147, 19</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/seals.dita#seals_topic/shaft_seal" class="- topic/xref " format="dita"&gt;</ph>Shaft Seal<ph id="1">&lt;/xref&gt;</ph> </source>
+      <target> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">circle</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">448, 147, 19</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/seals.dita#seals_topic/shaft_seal" class="- topic/xref " format="dita"&gt;</ph>Wellendichtung<ph id="1">&lt;/xref&gt;</ph> </target>
+   </trans-unit>
+   <trans-unit approved="no" xml:space="preserve" id="19">
+      <source> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">poly</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">135, 208, 183, 247, 184, 393, 160, 397, 158, 383, 172, 380, 174, 347, 174, 282, 161, 243, 134, 222, 113, 226</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/seals.dita#seals_topic/case_seal" class="- topic/xref " format="dita"&gt;</ph>Case Seal<ph id="1">&lt;/xref&gt;</ph> </source>
+      <target> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">poly</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">135, 208, 183, 247, 184, 393, 160, 397, 158, 383, 172, 380, 174, 347, 174, 282, 161, 243, 134, 222, 113, 226</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/seals.dita#seals_topic/case_seal" class="- topic/xref " format="dita"&gt;</ph>Gehäuseversiegelung<ph id="1">&lt;/xref&gt;</ph> </target>
+   </trans-unit>
+   <trans-unit approved="no" xml:space="preserve" id="20">
+      <source> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">poly</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">568, 81, 576, 103, 468, 152, 455, 130</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/drive-shaft.dita#drive_shaft_topic/drive_shaft" class="- topic/xref " format="dita"&gt;</ph>Drive Shaft<ph id="1">&lt;/xref&gt;</ph> </source>
+      <target> <mrk ts="‹shape class=″+ topic/keyword ut-d/shape ″ translate=″no″​›" mtype="protected">poly</mrk> <mrk ts="‹coords class=″+ topic/ph ut-d/coords ″ translate=″no″​›" mtype="protected">568, 81, 576, 103, 468, 152, 455, 130</mrk> <ph ctype="x-link" id="0">&lt;xref href="parts/drive-shaft.dita#drive_shaft_topic/drive_shaft" class="- topic/xref " format="dita"&gt;</ph>Kardanwelle<ph id="1">&lt;/xref&gt;</ph> </target>
+   </trans-unit>
+    </body>
+    <?images eyJpbWFnZVBhdGgiOiIvVXNlcnMvcmFkdWNvcmF2dS9lY2xpcHNlLXdvcmtzcGFjZS9lWG1sL3Nh
+bXBsZXMvZGl0YS9pbWFnZS1tYXAvaW1hZ2VzL0dlYXJfcHVtcF9leHBsb2RlZC5wbmciLCJocmVm
+IjoiLi4vaW1hZ2VzL0dlYXJfcHVtcF9leHBsb2RlZC5wbmcifQ==?>
+  </file>
+  <file product-name="Gear Pump" original="topics/introduction.dita" source-language="en"
+    target-language="de" datatype="x-ditamap" tool-id="OpenXLIFF" build-num="0"
+    product-version="1679467497156">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiID8+CjwhRE9DVFlQRSB0b3BpYyBQ
+VUJMSUMgIi0vL09BU0lTLy9EVEQgRElUQSBUb3BpYy8vRU4iICJ0b3BpYy5kdGQiPgo8dG9waWMg
+ZGl0YWFyY2g6RElUQUFyY2hWZXJzaW9uPSIxLjMiIGRvbWFpbnM9Iih0b3BpYyBhYmJyZXYtZCkg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgYShwcm9wcyBkZWxpdmVyeVRhcmdldCkgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGVxdWF0aW9uLWQpICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICh0b3BpYyBoYXphcmQtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGhpLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWFya3VwLWQpICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICh0b3BpYyBtYXRobWwtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+KHRvcGljIHByLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyByZWxtZ210LWQp
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBzdy1kKSAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAodG9waWMgc3ZnLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3Bp
+YyB1aS1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgdXQtZCkgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgKHRvcGljIG1hcmt1cC1kIHhtbC1kKSAgICIgY2xhc3M9Ii0gdG9w
+aWMvdG9waWMgIiBpZD0iaW50cm9kdWN0aW9uIiB4bWxuczpkaXRhYXJjaD0iaHR0cDovL2RpdGEu
+b2FzaXMtb3Blbi5vcmcvYXJjaGl0ZWN0dXJlLzIwMDUvIj4gPHRpdGxlIGNsYXNzPSItIHRvcGlj
+L3RpdGxlICI+JSUlMSUlJQo8L3RpdGxlPiA8c2hvcnRkZXNjIGNsYXNzPSItIHRvcGljL3Nob3J0
+ZGVzYyAiPiUlJTIlJSUKPC9zaG9ydGRlc2M+IDxib2R5IGNsYXNzPSItIHRvcGljL2JvZHkgIj4g
+PHAgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTMlJSUKJSUlNCUlJQo8L3A+IDxwIGNsYXNzPSItIHRv
+cGljL3AgIj4lJSU1JSUlCiUlJTYlJSUKPC9wPiA8L2JvZHk+IDwvdG9waWM+</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+   <trans-unit approved="yes" id="1" xml:space="preserve">
+      <source>Introduction</source>
+      <target>Einleitung</target>
+   </trans-unit>
+   <trans-unit approved="yes" id="2" xml:space="preserve">
+      <source>Introductory page.</source>
+      <target>Einführungsseite.</target>
+   </trans-unit>
+   <trans-unit approved="yes" id="3" xml:space="preserve">
+      <source>An <ph ctype="x-bold" id="0">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>image map<ph id="1">&lt;/b&gt;</ph> is a list of coordinates defining areas over an image.</source>
+      <target>Eine <ph ctype="x-bold" id="0">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>Bildkarte<ph id="1">&lt;/b&gt;</ph> ist eine Liste von Koordinaten, die Bereiche über einem Bild definieren.</target>
+   </trans-unit>
+   <trans-unit approved="yes" id="4" xml:space="preserve">
+      <source> These areas can link to different destinations (URLs).</source>
+      <target> Diese Bereiche können auf verschiedene Ziele (URLs) verweisen.</target>
+   </trans-unit>
+   <trans-unit approved="yes" id="5" xml:space="preserve">
+      <source>For a sample image map of a <ph ctype="x-bold" id="0">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>gear pump<ph id="1">&lt;/b&gt;</ph>, see the <mrk ts="‹xref status=″removeContent″ href=″gear-pump.dita#gear_pump″ class=″- topic/xref ″ removeTranslate=″yes″ translate=″no″​›" mtype="protected">Gear Pump - Exploded View</mrk> topic.</source>
+      <target>Eine Beispielbildkarte einer <ph ctype="x-bold" id="0">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>Zahnradpumpe finden Sie<ph id="1">&lt;/b&gt;</ph> im Thema <mrk ts="‹xref status=″removeContent″ href=″gear-pump.dita#gear_pump″ class=″- topic/xref ″ removeTranslate=″yes″ translate=″no″​›" mtype="protected">Zahnradpumpe - Explosionsansicht</mrk>.</target>
+   </trans-unit>
+   <trans-unit approved="yes" id="6" xml:space="preserve">
+      <source> Transform the DITA map to an HTML output in order to see how clicking over the image works.</source>
+      <target> Transformieren Sie die DITA-Map in eine HTML-Ausgabe, um zu sehen, wie das Klicken über das Bild funktioniert.</target>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="Gear Pump" source-language="en" original="topics/parts/bushings.dita"
+    datatype="x-ditamap" target-language="de" tool-id="OpenXLIFF" build-num="0"
+    product-version="1679467497156">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJidXNoaW5nc190b3BpYyI+IDx0aXRsZSBjbGFzcz0iLSB0b3Bp
+Yy90aXRsZSAiPiUlJTElJSUKPC90aXRsZT4gPGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAiPiA8
+c2VjdGlvbiBjbGFzcz0iLSB0b3BpYy9zZWN0aW9uICIgaWQ9ImJ1c2hpbmdzIj4gPHRpdGxlIGNs
+YXNzPSItIHRvcGljL3RpdGxlICI+JSUlMiUlJQo8L3RpdGxlPiA8cCBjbGFzcz0iLSB0b3BpYy9w
+ICI+JSUlMyUlJQolJSU0JSUlCjwvcD4gPC9zZWN0aW9uPiA8L2JvZHk+IDwvdG9waWM+</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+   <trans-unit approved="yes" xml:space="preserve" id="1">
+      <source>Bushings</source>
+      <target>Buchsen</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="2">
+      <source>Bushings</source>
+      <target>Buchsen</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="3">
+      <source>A <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>bushing<ph id="1">&lt;/term&gt;</ph>, also known as a <ph ctype="x-other" id="2">&lt;term class="- topic/term "&gt;</ph>bush<ph id="3">&lt;/term&gt;</ph>, is an independent plain bearing that is inserted into a housing to provide a bearing surface for rotary applications.</source>
+      <target>Eine <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Buchse<ph id="1">&lt;/term&gt;</ph>, auch als <ph ctype="x-other" id="2">&lt;term class="- topic/term "&gt;</ph>Buchse bezeichnet<ph id="3">&lt;/term&gt;</ph>, ist ein unabhängiges Gleitlager, das in ein Gehäuse eingesetzt wird, um eine Lagerfläche für Drehanwendungen bereitzustellen.</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="4">
+      <source> The bushings in the <ph ctype="x-bold" id="0">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>gear pump<ph id="1">&lt;/b&gt;</ph> provide a bearing surface for the <ph ctype="x-link" id="2">&lt;xref href="gears.dita#gears_topic/drive_gear" class="- topic/xref "&gt;</ph><ph ctype="x-bold" id="3">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>drive gear<ph id="4">&lt;/b&gt;</ph><ph id="5">&lt;/xref&gt;</ph> and <ph ctype="x-link" id="6">&lt;xref href="gears.dita#gears_topic/idler_gear" class="- topic/xref "&gt;</ph><ph ctype="x-bold" id="7">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>idler gear<ph id="8">&lt;/b&gt;</ph><ph id="9">&lt;/xref&gt;</ph>.</source>
+      <target> Die Buchsen in der <ph ctype="x-bold" id="0">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>Zahnradpumpe<ph id="1">&lt;/b&gt;</ph> bilden eine Lagerfläche für das <ph ctype="x-link" id="2">&lt;xref href="gears.dita#gears_topic/drive_gear" class="- topic/xref "&gt;</ph><ph ctype="x-bold" id="3">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>Antriebsrad<ph id="4">&lt;/b&gt;</ph><ph id="5">&lt;/xref&gt;</ph> und das <ph ctype="x-link" id="6">&lt;xref href="gears.dita#gears_topic/idler_gear" class="- topic/xref "&gt;</ph><ph ctype="x-bold" id="7">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>Zwischenrad<ph id="8">&lt;/b&gt;</ph><ph id="9">&lt;/xref&gt;</ph>.</target>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="Gear Pump" source-language="en" original="topics/parts/drive-shaft.dita"
+    datatype="x-ditamap" target-language="de" tool-id="OpenXLIFF" build-num="0"
+    product-version="1679467497156">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJkcml2ZV9zaGFmdF90b3BpYyI+IDx0aXRsZSBjbGFzcz0iLSB0
+b3BpYy90aXRsZSAiPiUlJTElJSUKPC90aXRsZT4gPGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAi
+PiA8c2VjdGlvbiBjbGFzcz0iLSB0b3BpYy9zZWN0aW9uICIgaWQ9ImRyaXZlX3NoYWZ0Ij4gPHRp
+dGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+JSUlMiUlJQo8L3RpdGxlPiA8cCBjbGFzcz0iLSB0
+b3BpYy9wICI+JSUlMyUlJQo8L3A+IDwvc2VjdGlvbj4gPC9ib2R5PiA8L3RvcGljPg==</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+   <trans-unit approved="yes" xml:space="preserve" id="1">
+      <source>Drive Shaft</source>
+      <target>Antriebswelle</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="2">
+      <source>Drive Shaft</source>
+      <target>Antriebswelle</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="3">
+      <source>A <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>drive shaft<ph id="1">&lt;/term&gt;</ph> is a mechanical component for transmitting torque and rotation, usually used to connect other components of a drive train that cannot be connected directly because of distance or the need to allow for relative movement between them..</source>
+      <target>Eine <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Antriebswelle<ph id="1">&lt;/term&gt;</ph> ist eine mechanische Komponente zur Übertragung von Drehmoment und Drehung, die in der Regel verwendet wird, um andere Komponenten eines Antriebsstrangs zu verbinden, die aufgrund des Abstands oder der Notwendigkeit, Relativbewegungen zwischen ihnen zuzulassen, nicht direkt verbunden werden können.</target>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="Gear Pump" source-language="en" original="topics/parts/gears.dita"
+    datatype="x-ditamap" target-language="de" tool-id="OpenXLIFF" build-num="0"
+    product-version="1679467497156">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJnZWFyc190b3BpYyI+IDx0aXRsZSBjbGFzcz0iLSB0b3BpYy90
+aXRsZSAiPiUlJTElJSUKPC90aXRsZT4gPGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAiPiA8cCBj
+bGFzcz0iLSB0b3BpYy9wICI+JSUlMiUlJQolJSUzJSUlCiUlJTQlJSUKPC9wPiA8c2VjdGlvbiBj
+bGFzcz0iLSB0b3BpYy9zZWN0aW9uICIgaWQ9ImRyaXZlX2dlYXIiPiA8dGl0bGUgY2xhc3M9Ii0g
+dG9waWMvdGl0bGUgIj4lJSU1JSUlCjwvdGl0bGU+IDxwIGNsYXNzPSItIHRvcGljL3AgIj4lJSU2
+JSUlCjwvcD4gPC9zZWN0aW9uPiA8c2VjdGlvbiBjbGFzcz0iLSB0b3BpYy9zZWN0aW9uICIgaWQ9
+ImlkbGVyX2dlYXIiPiA8dGl0bGUgY2xhc3M9Ii0gdG9waWMvdGl0bGUgIj4lJSU3JSUlCjwvdGl0
+bGU+IDxwIGNsYXNzPSItIHRvcGljL3AgIj4lJSU4JSUlCjwvcD4gPC9zZWN0aW9uPiA8L2JvZHk+
+IDwvdG9waWM+</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+   <trans-unit approved="yes" xml:space="preserve" id="1">
+      <source>Gears</source>
+      <target>Zahnräder</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="2">
+      <source> The <ph ctype="x-bold" id="0">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>gear pump<ph id="1">&lt;/b&gt;</ph> uses two identical gears rotating against each other.</source>
+      <target> Die <ph ctype="x-bold" id="0">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>Zahnradpumpe<ph id="1">&lt;/b&gt;</ph> verwendet zwei identische Zahnräder, die gegeneinander rotieren.</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="3">
+      <source> One gear is driven by a motor and it in turn drives the other gear.</source>
+      <target> Ein Zahnrad wird von einem Motor angetrieben und treibt seinerseits das andere Zahnrad an.</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="4">
+      <source> Each gear is supported by a shaft with <ph ctype="x-link" id="0">&lt;xref href="bushings.dita#bushings_topic" class="- topic/xref "&gt;</ph><ph ctype="x-other" id="1">&lt;term class="- topic/term "&gt;</ph>bushings<ph id="2">&lt;/term&gt;</ph><ph id="3">&lt;/xref&gt;</ph> on both sides of the gear.</source>
+      <target> Jedes Zahnrad ist auf einer Welle mit <ph ctype="x-link" id="0">&lt;xref href="bushings.dita#bushings_topic" class="- topic/xref "&gt;</ph><ph ctype="x-other" id="1">&lt;term class="- topic/term "&gt;</ph>Buchsen<ph id="2">&lt;/term&gt;</ph><ph id="3">&lt;/xref&gt;</ph> auf beiden Seiten des Zahnrades gelagert.</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="5">
+      <source>Drive Gear (Rotor)</source>
+      <target>Antriebszahnrad (Rotor)</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="6">
+      <source>The <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>drive gear<ph id="1">&lt;/term&gt;</ph> in the <ph ctype="x-bold" id="2">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>gear pump<ph id="3">&lt;/b&gt;</ph> is the gear that is driven by the motor.</source>
+      <target>Das <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Antriebszahnrad<ph id="1">&lt;/term&gt;</ph> in der <ph ctype="x-bold" id="2">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>Zahnradpumpe<ph id="3">&lt;/b&gt;</ph> ist das Zahnrad, das vom Motor angetrieben wird.</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="7">
+      <source>Idler Gear</source>
+      <target>Spannrollengetriebe</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="8">
+      <source>The <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>idler gear<ph id="1">&lt;/term&gt;</ph> is the gear that is driven by the <ph ctype="x-other" id="2">&lt;term class="- topic/term "&gt;</ph>drive gear<ph id="3">&lt;/term&gt;</ph>.</source>
+      <target>Das <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Losrad<ph id="1">&lt;/term&gt;</ph> ist das Zahnrad, das von dem <ph ctype="x-other" id="2">&lt;term class="- topic/term "&gt;</ph>Antriebsrad angetrieben wird<ph id="3">&lt;/term&gt;</ph>.</target>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="Gear Pump" source-language="en" original="topics/parts/mounting-flange.dita"
+    datatype="x-ditamap" target-language="de" tool-id="OpenXLIFF" build-num="0"
+    product-version="1679467497156">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJtb3VudGluZ19mbGFuZ2VfdG9waWMiPiA8dGl0bGUgY2xhc3M9
+Ii0gdG9waWMvdGl0bGUgIj4lJSUxJSUlCjwvdGl0bGU+IDxib2R5IGNsYXNzPSItIHRvcGljL2Jv
+ZHkgIj4gPHNlY3Rpb24gY2xhc3M9Ii0gdG9waWMvc2VjdGlvbiAiIGlkPSJtb3VudGluZ19mbGFu
+Z2UiPiA8dGl0bGUgY2xhc3M9Ii0gdG9waWMvdGl0bGUgIj4lJSUyJSUlCjwvdGl0bGU+IDxwIGNs
+YXNzPSItIHRvcGljL3AgIj4lJSUzJSUlCjwvcD4gPC9zZWN0aW9uPiA8L2JvZHk+IDwvdG9waWM+</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+   <trans-unit approved="yes" xml:space="preserve" id="1">
+      <source>Mounting Flange</source>
+      <target>Montageflansch</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="2">
+      <source>Mounting Flange</source>
+      <target>Montageflansch</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="3">
+      <source>The mounting flange is used to fix the pump on a support apparatus.</source>
+      <target>Der Befestigungsflansch dient zur Befestigung der Pumpe an einer Stützvorrichtung.</target>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="Gear Pump" source-language="en" original="topics/parts/ports.dita"
+    datatype="x-ditamap" target-language="de" tool-id="OpenXLIFF" build-num="0"
+    product-version="1679467497156">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJwb3J0c190b3BpYyI+IDx0aXRsZSBjbGFzcz0iLSB0b3BpYy90
+aXRsZSAiPiUlJTElJSUKPC90aXRsZT4gPGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAiPiA8c2Vj
+dGlvbiBjbGFzcz0iLSB0b3BpYy9zZWN0aW9uICIgaWQ9InN1Y2N0aW9uX3BvcnQiPiA8dGl0bGUg
+Y2xhc3M9Ii0gdG9waWMvdGl0bGUgIj4lJSUyJSUlCjwvdGl0bGU+IDxwIGNsYXNzPSItIHRvcGlj
+L3AgIj4lJSUzJSUlCjwvcD4gPC9zZWN0aW9uPiA8c2VjdGlvbiBjbGFzcz0iLSB0b3BpYy9zZWN0
+aW9uICIgaWQ9InByZXN1cmVfcG9ydCI+IDx0aXRsZSBjbGFzcz0iLSB0b3BpYy90aXRsZSAiPiUl
+JTQlJSUKPC90aXRsZT4gPHAgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTUlJSUKPC9wPiA8L3NlY3Rp
+b24+IDwvYm9keT4gPC90b3BpYz4=</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+   <trans-unit approved="yes" xml:space="preserve" id="1">
+      <source>Ports</source>
+      <target>Ports</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="2">
+      <source>Suction Port</source>
+      <target>Sauganschluss</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="3">
+      <source>The liquid enters in the pump through the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>suction port<ph id="1">&lt;/term&gt;</ph>.</source>
+      <target>Die Flüssigkeit tritt durch den <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Ansaugstutzen in die Pumpe ein<ph id="1">&lt;/term&gt;</ph>.</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="4">
+      <source>Pressure Port</source>
+      <target>Druckanschluss</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="5">
+      <source>The liquid leaves the pump through the <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>pressure port<ph id="1">&lt;/term&gt;</ph> (or discharge port).</source>
+      <target>Die Flüssigkeit verlässt die Pumpe durch den <ph ctype="x-other" id="0">&lt;term class="- topic/term "&gt;</ph>Druckanschluss<ph id="1">&lt;/term&gt;</ph> (oder Auslassanschluss).</target>
+   </trans-unit>
+    </body>
+  </file>
+  <file product-name="Gear Pump" source-language="en" original="topics/parts/seals.dita"
+    datatype="x-ditamap" target-language="de" tool-id="OpenXLIFF" build-num="0"
+    product-version="1679467497156">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCFET0NUWVBFIHRvcGljIFBV
+QkxJQyAiLS8vT0FTSVMvL0RURCBESVRBIFRvcGljLy9FTiIgInRvcGljLmR0ZCI+Cjx0b3BpYyBk
+b21haW5zPSIodG9waWMgYWJicmV2LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJv
+cHMgZGVsaXZlcnlUYXJnZXQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBlcXVh
+dGlvbi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGF6YXJkLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IG1hcmt1cC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbWF0aG1sLWQpICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBwci1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
+aWMgc3ctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHN2Zy1kKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgdWktZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBtYXJrdXAt
+ZCB4bWwtZCkgICAiIGRpdGFhcmNoOkRJVEFBcmNoVmVyc2lvbj0iMS4zIiBjbGFzcz0iLSB0b3Bp
+Yy90b3BpYyAiIHhtbG5zOmRpdGFhcmNoPSJodHRwOi8vZGl0YS5vYXNpcy1vcGVuLm9yZy9hcmNo
+aXRlY3R1cmUvMjAwNS8iIGlkPSJzZWFsc190b3BpYyI+IDx0aXRsZSBjbGFzcz0iLSB0b3BpYy90
+aXRsZSAiPiUlJTElJSUKPC90aXRsZT4gPGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAiPiA8c2Vj
+dGlvbiBjbGFzcz0iLSB0b3BpYy9zZWN0aW9uICIgaWQ9InNoYWZ0X3NlYWwiPiA8dGl0bGUgY2xh
+c3M9Ii0gdG9waWMvdGl0bGUgIj4lJSUyJSUlCjwvdGl0bGU+IDxwIGNsYXNzPSItIHRvcGljL3Ag
+Ij4lJSUzJSUlCjwvcD4gPC9zZWN0aW9uPiA8c2VjdGlvbiBjbGFzcz0iLSB0b3BpYy9zZWN0aW9u
+ICIgaWQ9ImNhc2Vfc2VhbCI+IDx0aXRsZSBjbGFzcz0iLSB0b3BpYy90aXRsZSAiPiUlJTQlJSUK
+PC90aXRsZT4gPHAgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTUlJSUKPC9wPiA8L3NlY3Rpb24+IDwv
+Ym9keT4gPC90b3BpYz4=</internal-file>
+      </skl>
+      <tool tool-version="3.1.0 20230119_1838" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+   <trans-unit approved="yes" xml:space="preserve" id="1">
+      <source>Seals</source>
+      <target>Dichtungen</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="2">
+      <source>Shaft Seal</source>
+      <target>Wellendichtung</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="3">
+      <source>This is a seal that is placed between the <ph ctype="x-link" id="0">&lt;xref href="drive-shaft.dita#drive_shaft_topic" class="- topic/xref "&gt;</ph><ph ctype="x-other" id="1">&lt;term class="- topic/term "&gt;</ph>drive shaft<ph id="2">&lt;/term&gt;</ph><ph id="3">&lt;/xref&gt;</ph> and the main case of the <ph ctype="x-bold" id="4">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>gear pump<ph id="5">&lt;/b&gt;</ph>.</source>
+      <target>Hierbei handelt es sich um eine Dichtung, die zwischen der <ph ctype="x-link" id="0">&lt;xref href="drive-shaft.dita#drive_shaft_topic" class="- topic/xref "&gt;</ph><ph ctype="x-other" id="1">&lt;term class="- topic/term "&gt;</ph>Antriebswelle<ph id="2">&lt;/term&gt;</ph><ph id="3">&lt;/xref&gt;</ph> und dem Hauptgehäuse der <ph ctype="x-bold" id="4">&lt;b class="+ topic/ph hi-d/b "&gt;</ph>Zahnradpumpe angeordnet ist<ph id="5">&lt;/b&gt;</ph>.</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="4">
+      <source>Case Seal</source>
+      <target>Gehäusedichtung</target>
+   </trans-unit>
+   <trans-unit approved="yes" xml:space="preserve" id="5">
+      <source>The case seal is placed between the main case and the case cover.</source>
+      <target>Die Gehäusedichtung befindet sich zwischen dem Hauptgehäuse und dem Gehäusedeckel.</target>
+   </trans-unit>
+    </body>
+  </file>
+</xliff>
