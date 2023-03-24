@@ -1,0 +1,21 @@
+------START-LICENSE-KEY------
+
+Registration_Name=Syncro Soft
+
+Company=Syncro Soft
+
+Category=Enterprise
+
+Component=Oxygen-Scripting
+
+Version=25
+
+Number_of_Licenses=1
+
+Date=03-23-2023
+
+Trial=31
+
+SGN=MCwCFDCyiiKKnqveUqAOIs5QbCiL0G6HAhRwlTuBwnnJT94iC2x3r3foeGQaWg\=\=
+
+-------END-LICENSE-KEY-------
