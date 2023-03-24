@@ -4,6 +4,8 @@ rm -rf bin/tmp-vcc/
 mkdir -p bin/tmp-vcc/
 
 echo "Validate and check for completeness"
+var=$(pwd)
+echo "The current working directory $var."
 
 cd scripts/../
 pf=`pwd`
