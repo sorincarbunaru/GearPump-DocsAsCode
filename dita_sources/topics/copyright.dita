@@ -3,7 +3,7 @@
 <topic id="copyright">
     <title>Copyright</title>
   <shortdesc>Legal stuff.</shortdesc>
-    <body>
+    <body id="copyright">
         <p>Most of the information in this guide was taken from <xref
                 href="http://www.wikipedia.com" format="html" scope="external">Wikipedia</xref>, the
             free encyclopedia.</p>
