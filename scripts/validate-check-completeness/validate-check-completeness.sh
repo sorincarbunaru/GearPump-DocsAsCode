@@ -5,7 +5,7 @@ mkdir -p bin/tmp-vcc/
 
 echo "Validate and check for completeness"
 
-sh bin/oxygen/scripts/validateCheckDITA.sh -i dita_sources/gear-pump.ditamap -s scripts/validate-check-completeness/validate-check-completeness-options.xml -r bin/tmp-vcc/vcc-result.xml
+sh bin/oxygen/scripts/validateCheckDITA.sh -i ../../dita_sources/gear-pump.ditamap -s ../../scripts/validate-check-completeness/validate-check-completeness-options.xml -r bin/tmp-vcc/vcc-result.xml
 
 echo "--RESULT--"
 cat bin/tmp-vcc/vcc-result.xml
