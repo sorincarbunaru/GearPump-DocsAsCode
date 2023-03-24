@@ -6,7 +6,7 @@
     xmlns:f="ns:functions"
     version="3.0">
     
-    <xsl:output omit-xml-declaration="true"/>
+    <xsl:output omit-xml-declaration="true" encoding="UTF-8" indent="yes"/>
     
     <xsl:variable name="severity" as="map(xs:string, xs:string)">
         <xsl:map>

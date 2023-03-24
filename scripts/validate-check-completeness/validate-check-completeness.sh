@@ -5,12 +5,7 @@ mkdir -p bin/tmp-vcc/
 
 echo "Validate and check for completeness"
 dir=$(pwd)
-echo "The current working directory $var."
-
-for entry in "$var"/*
-do
-  echo "$entry"
-done
+echo "The current working directory $dir."
 
 sh bin/oxygen/scripts/validateCheckDITA.sh -i $dir/dita_sources/gear-pump.ditamap -s $dir/scripts/validate-check-completeness/validate-check-completeness-options.xml -r $dir/bin/tmp-vcc/vcc-result.xml
 
