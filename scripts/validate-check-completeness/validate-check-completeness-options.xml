@@ -59,7 +59,7 @@
 					<list/>
 				</field>
 				<field name="additionalSchematronChecksURL">
-					<String>${cfdu}/rulesAdvanced.sch</String>
+					<String>${cfdu}/../scripts/validate-check-completeness/schematron-rules/rulesAdvanced.sch</String>
 				</field>
 			</checkCompletnessOptions>
 		</entry>
