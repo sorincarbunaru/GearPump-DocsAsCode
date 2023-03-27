@@ -6,7 +6,7 @@ if [[ ! -e bin/sonar ]];
 then
   mkdir bin
   touch bin/sonar.zip 
-  curl -q https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.5.0.2216-linux.zip > bin/sonar.zip
+  curl -q https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.8.0.2856-linux.zip > bin/sonar.zip
   unzip -q bin/sonar.zip -d bin/
   mv bin/sonar-scanner* bin/sonar
 fi
