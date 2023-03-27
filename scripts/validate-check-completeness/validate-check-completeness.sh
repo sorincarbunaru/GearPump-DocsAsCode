@@ -29,7 +29,7 @@ sh bin/oxygen/scripts/validateCheckDITA.sh \
 
 echo "-- VALIDATION DONE --"
 echo "Pretty printing results..."
-java -cp bin/saxon9.jar net.sf.saxon.Transform -s:bin/tmp-vcc/vcc-result.xml -xsl:scripts/validate-check-completeness/validatation-results-to-sonar.xsl > bin/tmp-vcc/vcc-result-pretty.xml
+java -cp bin/saxon9.jar net.sf.saxon.Transform -s:bin/tmp-vcc/vcc-result.xml -xsl:scripts/validate-check-completeness/validatation-results-pretty-printer.xsl > bin/tmp-vcc/vcc-result-pretty.xml
 
 echo "-- VALIDATION RESULTS --"
 cat bin/tmp-vcc/vcc-result-pretty.xml
