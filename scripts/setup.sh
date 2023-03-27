@@ -14,6 +14,3 @@ then
   curl -L -q https://mirror.oxygenxml.com/InstData/Editor/All/oxygen.tar.gz > bin/oxygen.tar.gz
   tar xzf bin/oxygen.tar.gz -C bin/  
 fi
-
-echo "Copy scripting license key"
-cp -rf scripts/validate-check-completeness/scriptinglicensekey.txt  bin/oxygen/scriptinglicensekey.txt
