@@ -1,2 +1,2 @@
 [build]
-  command = "bash scripts/setup.sh"
+  command = "bash scripts/setup.sh && bash scripts/validate-check-completeness/validate-check-completeness.sh"
