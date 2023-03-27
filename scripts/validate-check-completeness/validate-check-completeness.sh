@@ -24,12 +24,10 @@ echo "The current working directory is: $dir."
 #                   If not specified, the report is displayed in the console.
 sh bin/oxygen/scripts/validateCheckDITA.sh \
     -i $dir/dita_sources/gear-pump.ditamap \
-    -s $dir/scripts/validate-check-completeness/validate-check-completeness-options.xml \
+    -s $dir/scripts/validate-check-completeness/validate-check-completeness-settings.xml \
     -r $dir/bin/tmp-vcc/vcc-result.xml
 
 echo "-- VALIDATION DONE --"
-cat bin/tmp-vcc/vcc-result.xml
-
 echo "Pretty printing results..."
 java -cp bin/saxon9.jar net.sf.saxon.Transform -s:bin/tmp-vcc/vcc-result.xml -xsl:scripts/validate-check-completeness/validatation-results-to-sonar.xsl > bin/tmp-vcc/vcc-result-pretty.xml
 
