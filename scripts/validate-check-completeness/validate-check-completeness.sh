@@ -27,11 +27,11 @@ sh bin/oxygen/scripts/validateCheckDITA.sh \
     -s $dir/scripts/validate-check-completeness/validate-check-completeness-options.xml \
     #-r $dir/bin/tmp-vcc/vcc-result.xml
 
-echo "-- VALIDATION RESULTS --"
-cat bin/tmp-vcc/vcc-result.xml
+#echo "-- VALIDATION RESULTS --"
+#cat bin/tmp-vcc/vcc-result.xml
 
-echo "Convert to JSON"
-java -cp bin/saxon9.jar net.sf.saxon.Transform -s:bin/tmp-vcc/vcc-result.xml -xsl:scripts/validate-check-completeness/validatation-results-to-sonar.xsl > bin/tmp-vcc/vcc-result-sonar.json
+#echo "Convert to JSON"
+#java -cp bin/saxon9.jar net.sf.saxon.Transform -s:bin/tmp-vcc/vcc-result.xml -xsl:scripts/validate-check-completeness/validatation-results-to-sonar.xsl > bin/tmp-vcc/vcc-result-sonar.json
 
-echo "-- VALIDATION RESULTS AS JSON --"
-cat bin/tmp-vcc/vcc-result-sonar.json
+#echo "-- VALIDATION RESULTS AS JSON --"
+#cat bin/tmp-vcc/vcc-result-sonar.json
