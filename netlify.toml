@@ -1,2 +1,2 @@
 [build]
-  command = "bash scripts/setup.sh && bash scripts/sonar/sonar.sh"
+  command = "bash scripts/setup.sh"
