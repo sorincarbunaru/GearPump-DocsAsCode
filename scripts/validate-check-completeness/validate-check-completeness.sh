@@ -1,5 +1,3 @@
-cp -rf scripts/validate-check-completeness/scriptinglicensekey.txt  bin/oxygen/scriptinglicensekey.txt
-
 rm -rf bin/tmp-vcc/
 mkdir -p bin/tmp-vcc/
 
