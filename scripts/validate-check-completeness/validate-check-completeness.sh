@@ -24,7 +24,7 @@ echo "The current working directory is: $dir."
 #                   If not specified, the report is displayed in the console.
 sh bin/oxygen/scripts/validateCheckDITA.sh \
     -i $dir/dita_sources/gear-pump.ditamap \
-    -s $dir/scripts/validate-check-completeness/validate-check-completeness-options.xml \
+    -s $dir/scripts/validate-check-completeness/validate-check-completeness-options.xml
     #-r $dir/bin/tmp-vcc/vcc-result.xml
 
 #echo "-- VALIDATION RESULTS --"
