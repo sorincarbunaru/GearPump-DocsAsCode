@@ -6,6 +6,26 @@
             <serialized xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
+                        <String>Fluenta_Addon_preferences_page</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.fluenta.translation.default.target.languages</String>
+                        <String>fr de ro</String>
+                    </entry>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.fluenta.translation.memories.folder</String>
+                        <String>${pd}\l10n\memories</String>
+                    </entry>
+                    <entry>
+                        <String>PLUGIN_CUSTOM_OPTIONS.com.oxygenxml.fluenta.translation.projects.folder</String>
+                        <String>${pd}\l10n\fluenta_project</String>
+                    </entry>
+                    <entry>
+                        <String>Xliff_Translator_plugin_preferences_page</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
                         <String>enable.project.master.files.support</String>
                         <Boolean>true</Boolean>
                     </entry>
@@ -15,7 +35,7 @@
     </meta>
     <projectTree name="gear-pump.xpr">
         <folder masterFiles="true" name="Main Files">
-            <file name="dita_sources/gear-pump.ditamap"/>
+            <file name="dita_sources/en/gear-pump.ditamap"/>
         </folder>
         <folder path="."/>
     </projectTree>
