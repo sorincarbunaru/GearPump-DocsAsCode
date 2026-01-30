@@ -9,8 +9,7 @@
       gear.</p>
     <section id="drive_gear">
       <title>Drive Gear (Rotor)</title>
-      <p>The <term>drive gear</term> in the <b>gear pump</b> is the gear that is driven by the
-        motor.</p>
+      <p>The <term>drive gear</term> is the gear that is driven by the <term>motor</term>.</p>
     </section>
     <section id="idler_gear">
       <title>Idler Gear</title>
