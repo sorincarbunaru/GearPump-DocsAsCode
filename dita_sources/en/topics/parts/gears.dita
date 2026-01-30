@@ -11,9 +11,5 @@
       <title>Drive Gear (Rotor)</title>
       <p>The <term>drive gear</term> is the gear that is driven by the <term>motor</term>.</p>
     </section>
-    <section id="idler_gear">
-      <title>Idler Gear</title>
-      <p>The <term>idler gear</term> is the gear that is driven by the <term>drive gear</term>.</p>
-    </section>
   </body>
 </topic>
