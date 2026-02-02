@@ -45,13 +45,13 @@
                     <area>
                         <shape>circle</shape>
                         <coords>232, 242, 47</coords>
-                        <xref href="parts/gears.dita#gears_topic/drive_gear" format="dita">Drive
+                        <xref href="parts/drive_gear.dita" format="dita">Drive
                             Gear</xref>
                     </area>
                     <area>
                         <shape>circle</shape>
                         <coords>238, 306, 49</coords>
-                        <xref href="parts/gears.dita#gears_topic/idler_gear" format="dita">Idler
+                        <xref href="parts/idler_gear.dita" format="dita">Idler
                             Gear</xref>
                     </area>
                     <area>
