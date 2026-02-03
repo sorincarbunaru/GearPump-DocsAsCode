@@ -35,7 +35,7 @@
     </meta>
     <projectTree name="gear-pump.xpr">
         <folder masterFiles="true" name="Main Files">
-            <file name="dita_sources/en/gear-pump.ditamap"/>
+            <file name="DITA/en/gear-pump.ditamap"/>
         </folder>
         <folder path="."/>
     </projectTree>
